@@ -15,4 +15,4 @@ Execute `make`
 Execute `make clean`
 
 ## Sample
-![](https://github.com/chrismcmorran/ieee-paper/raw/master/main.pdf)
+![](https://github.com/chrismcmorran/ieee-paper/master/main.pdf?raw=true)
