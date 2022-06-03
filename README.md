@@ -13,3 +13,6 @@ This is a template project for creating IEEE papers. It contains a minimal set o
 Execute `make`
 ## Cleaning
 Execute `make clean`
+
+## Sample
+![](./main.pdf)
